@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">WeGate</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="forgot"><u>Forgot Password?</u></string>
+    <string name="signup">Don\'t have an Account Yet?\n<span style="color:#D288A2;"><u>Sign Up</u></span></string>
+    <string name="login">Already have an Account?\n<u>Log In</u></string>
+    <string name="api_key">AIzaSyDz7ZV1S-h17GJkuuPnvMOleZrsGn73LHE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hobbies">Reading\nSinging\nDancing\nWatching Movies\nEating\nTraveling</string>
+    <string name="goldname"><b>Premium\nUnlock all of our features to be in complete control of your experience\n\nUpgrade Gold Premium ₱299</b></string>
+    <string name="silvername">Premium\nUnlock all of our features to be in complete control of your experience\n\nUpgrade Silver Premium ₱199</string>
+    <string name="location">You want to change the settings of your matched location.\nUpgrade your account to enjoy Matched Location Changing.</string>
+    <string name="message">You have reached the time limit of your conversation.\nUpgrade your account to enjoy Unlimited Conversation.</string>
+    <string name="undo">You want to undo your match with this user.\nUpgrade your account to enjoy Power to Undo Last Matched.</string>
+    <string name="game">You want to play compatibility test games with this user.\nUpgrade your account to enjoy Compatibility Test Games.</string>
+    <string name="compatibility">You want to see your compatibility with this user.\nUpgrade your account to enjoy Zodiac Sign Matching.</string>
+    <string name="swipe">You have reached the swipe limit for free account.\nUpgrade your account to enjoy Limitless Swipes</string>
+    <string name="gold">✓ Compatibility Test Games\n\n✓ Limitless Update Profiles\n\n✓ Limitless Swipes\n\n✓ Power to Undo Last Matched\n\n✓ Matched Location Changing\n\n✓ Zodiac Sign Matching\n\n✓ Unlimited Conversation</string>
+    <string name="silver">✓ Limitless Swipes\n\n✓ Zodiac Sign Matching\n\n✓ Unlimited Conversation</string>
+    <string name="aquarius"><b>Aquarius (January 20–February 18)</b>
+\n\nNot one for tradition, Aquarius is ever the free thinker who consistently strives for improvement. People born under this sign search eagerly for new answers to old problems, taking inspiration from the unlikeliest sources. As far as romantic partnerships go, this air sign is looking for someone who can pique their intellectual curiosity. “Aquarius is primarily looking for a partner who can think deeply and clearly,” Ridout says, “and who can create a true partnership with depth and equity.”
+
+\n\n<b>Compatible signs</b>
+\n\nAquarius will be best off with its own kind or with a Gemini, who is similarly energetic and nimble-minded. Libra, a proponent of fairness and lover of research, also lives up to the humanitarian inclinations of an Aquarius.
+
+\n\n<b>Non-compatible signs</b>
+\n\nScorpio’s way of thinking can be too convoluted for Aquarius, who prefers logic and openness to emotions and secrecy. Cancer, another water sign, won’t have much luck either for this reason. A Taurus definitely won’t jive with Aquarius either, since this is a sign that loves to turn everything on its head. By the way, did you know that this is the rarest zodiac sign?</string>
+    <string name="aries"><b>Aries (March 21–April 19)</b>
+\n\nAries is a dominant personality. People of this sign tend to be eager and ready to take the lead; they are all about action and will face problems head-on. When it comes to romantic relationships, they need someone who won’t get in their way. “Aries is primarily looking for a partner who will encourage their outer expression and not dampen their zest for life,” Ridout says. Of course, that doesn’t mean they want a complete doormat, either. An ideal partner would be someone who knows how to handle Aries without butting heads.
+
+\n\n<b>Compatible signs</b>
+\n\nSagittarius is a great companion because people of this sign are adventurous and outgoing; the two will sustain each other’s energy. Gemini is a good match for similar reasons, while Libra could also forge a bond based on mutual respect and understanding.
+
+\n\n<b>Non-compatible signs</b>
+\n\nAries is too bullish for signs like Scorpio and Cancer. Virgo would also be an improper pairing because the two would constantly clash over what they see as the right course of action. The last thing you want is to be stressed in your relationship.</string>
+    <string name="cancer"><b>Cancer (June 21–July 22)</b>
+\n\nWhether we’re talking about food, presents, or attention, Cancer is a loving sign who enjoys giving, and they seek someone who shares those same values. “Cancer is looking for a partner who makes them feel at home and who takes care of themselves and others,” Ridout says. They are more than willing to be the shoulder you can cry on, and they will feel secure in a relationship that provides them with that same comfort.
+
+\n\n<b>Compatible signs</b>
+\n\nScorpio and Pisces, two very intuitive and emotional signs, will deeply appreciate Cancer’s love and dedication. Virgo also loves to nurture and cherishes a reliable partner like Cancer.
+
+\n\n<b>Non-compatible signs</b>
+\n\nGemini, Sagittarius, and Leo are too independent and won’t satisfy Cancer, who needs to be needed. They’re not necessarily selfish, but they don’t crave that same level of domesticity.</string>
+    <string name="capricorn"><b>Capricorn (December 22–January 19)</b>
+\n\nIf the zodiac were a classroom, Capricorn would be the kid who takes great pride in their grades, studies religiously for each exam, and bemoans anything less than an A. They love feeling accomplished, and they yearn for others to notice their accomplishments, too. Still, they’re only human. “Capricorn is primarily looking for a partner willing to support them and see them for all their excellence as well as their vulnerabilities,” Ridout says.
+
+\n\n<b>Compatible signs</b>
+\n\nVirgos and other Capricorns appreciate and respect the drive this sign has, and they sympathize with the desire to be perfect. Scorpios know that there is more to this sign than meets the eye, as they are often misunderstood themselves.
+
+\n\n<b>Non-compatible signs</b>
+\n\nOn the other hand, Leo, Gemini, and Sagittarius view Capricorn as being overly serious and stodgy.</string>
+    <string name="gemini"><b>Gemini (May 21–June 20)</b>
+\n\nGeminis love to have fun and tend to be hard to pin down. They go where the wind takes them, and they need a partner who is just as agile. Ridout sums it up by saying, “Gemini [wants] a partner who will encourage their free thought and go with them on mini-adventures that allow the good times to roll.”
+
+\n\n<b>Compatible signs</b>
+\n\nAs someone who can see two sides to any argument, Libra is perfectly suited to Gemini, the sign of the Twins. Where some might call Gemini two-faced, Libra understands that there is more to them than meets the eye. Additionally, Sagittarius and Aquarius share the same intellectual curiosity and need for exploration as Gemini.
+
+\n\n<b>Non-compatible signs</b>
+\n\nCapricorn and Taurus do not like the unpredictable nature of this sign, which they see as flighty. Scorpio may also feel naturally distrustful of Gemini. While we’re on the subject, find out how trustworthy each sign is.</string>
+    <string name="leo"><b>Leo (July 23–August 22)</b>
+\n\nLighthearted and gregarious, Leo wants a best friend as much as a lover. “Leo [needs] a partner who is willing to play with them and who sees—and appreciates—their shine,” says Ridout. They’re spirited people who want a partner in crime with just as much enthusiasm for life. For them, zodiac compatibility means finding someone who won’t be intimidated or turned off by their big personality.
+
+\n\n<b>Compatible signs</b>
+\n\nSagittarius, Aquarius, and Gemini share Leo’s aspirations and excitement, making them very suitable matches. Of course, zodiac compatibility isn’t always enough to avoid an argument—but knowing the best days to do certain things may help you avoid some of those bumps in the road.
+
+\n\n<b>Non-compatible signs</b>
+\n\nCapricorn, Taurus, and Virgo can be too regimented for Leo, who may feel bogged down by their rules. The earth signs tend to feel like Leos should get over themselves.</string>
+    <string name="libra"><b>Libra (September 23–October 22)</b>
+\n\nLibras are marked by the scales of justice and, more generally, by the concept of balance. According to Ridout, “Libra is primarily looking for a partner who brings balance and direction to their life, who neither dictates nor passively watches them.” This intellectual sign loves to learn and desires a mutually beneficial and equal relationship. Fun fact: This zodiac sign also produces the most billionaires.
+
+\n\n<b>Compatible signs</b>
+\n\nBecause Libra is so measured, partnering with another Libra is probably the most logical choice. People of this zodiac sign can also do well with an Aries or an Aquarius, who provide an intriguing challenge and mental stimulation.
+
+\n\n<b>Non-compatible signs</b>
+\n\nOne part of what makes love so wonderful is that initial spark, and Libra doesn’t usually feel that energy from Virgo or Capricorn. Pisces can also be a poor fit by being too untethered to reality, preferring instead to live in a world of art, feeling, and dreams.</string>
+    <string name="pisces"><b>Pisces (February 19–March 20)</b>
+\n\nThe sign of the fish, Pisces enjoys swirling around the more watery areas of the subconscious. They are comfortable with the intangible and the ethereal, like mysticism and artistic creativity. For this reason, some signs may view them as “too out there,” but admirers adore their seemingly effortless way of being.
+
+\n\n<b>Compatible signs</b>
+\n\nScorpio and Cancer are like Pisces in that they are deeply invested in emotional connections. Scorpio has a special fondness for this sign’s ability to think and to live abstractly, which fits Ridout’s assessment that Pisces needs “a partner who can navigate the world with them while diving deep into spiritual and artistic endeavors.” And while it may come as a surprise, it turns out that Capricorn is also a wonderful companion for Pisces—the ultimate example of how opposites attract.
+
+\n\n<b>Non-compatible signs</b>
+\n\nOutgoing signs like Gemini, Sagittarius, and Leo don’t really speak the same language as contemplative Pisces, who can be gentle and shy.</string>
+    <string name="sagittarius"><b>Sagittarius (November 22–December 21)</b>
+\n\nSagittarius is a sign that comes to know itself through experiences, which is why these people love to explore and try new things. Just like Leo wants to find a playmate, Sagittarius wants their own adventure buddy. “Sagittarius [wants] someone who is willing to get deep and silly at the same time,” Ridout explains.
+
+\n\n<b>Compatible signs</b>
+\n\nAnother Sagittarius or a Gemini would definitely be able to vibe with that type of inquisitive and energetic lifestyle. Aries, another sign that loves to be active, may also be able to provide a firm, guiding hand where one is needed.
+
+\n\n<b>Non-compatible signs</b>
+\n\nSagittarius is too rambunctious for the likes of Capricorn and Taurus and isn’t skilled enough at communicating emotions to successfully date a Pisces.</string>
+    <string name="scorpio"><b>Scorpio (October 23–November 21)</b>
+\n\nThere is a depth to Scorpio that frankly cannot be met or understood by everyone. People of this sign can be intensely private, so they want to make sure that whoever they let in is worth the risk of opening up. This might make Scorpio seem unwilling, but they do have a strong desire to find that special person. “Scorpio is looking for a partner willing to go deep with them and to see them for who they truly are under the surface,” Ridout says.
+
+\n\n<b>Compatible signs</b>
+\n\nThe other two water signs, Pisces and Cancer, also experience the world primarily through their emotions and can match the intensity of Scorpio. These signs are willing to forge the powerful bonds that Scorpio secretly craves. Virgo loves trying to solve the puzzle that is Scorpio, and they also find that kind of long-term investment worthwhile. This thoughtful, nurturing earth sign is the kind of dedicated partner Scorpio needs.
+
+\n\n<b>Non-compatible signs</b>
+\n\nJust as the head and the heart don’t always see eye to eye, Aquarius can be too cerebral for the sensual Scorpio. Leo and Aries are also ill-advised matches for Scorpio, whose determination to fulfill their own ambitions would cause conflict. If you’re looking to be more productive, there’s a right way and a wrong way to do it, depending on your zodiac sign.</string>
+    <string name="taurus"><b>Taurus (April 20–May 20)</b>
+\n\nThe fixed earth sign of Taurus is pretty set in its ways. Sometimes this can mean that Bulls are stubborn, but on a deeper level, they are sure of who they are and what they want. “Taurus is primarily looking for a partner who will appreciate their pace, their passion, and their desire to hold their inner awareness and power,” Ridout explains. Literally and figuratively, Taurus is a rock for their true love and will stand by them no matter what. Looking to shower your love with presents? Check out this gift guide for every zodiac sign for just the thing.
+
+\n\n<b>Compatible signs</b>
+\n\nThe other earth signs, Capricorn and Virgo, make a great match for Taurus, as they share the same fundamental nature. (That’s basically the essence of zodiac compatibility.) Cancer is also a good choice, too, because they are just as passionate and caring as Taurus, and they take their dedication to their loved ones equally seriously.
+
+\n\n<b>Non-compatible signs</b>
+\n\nFor as much as Taurus loves opulence and sensuality, this sign does not appreciate show-offs when it comes to relationships. Leo, Aquarius, and Sagittarius are too excitable for Taurus, who prefers a more grounded temperament.</string>
+    <string name="virgo"><b>Virgo (August 23–September 22)</b>
+\n\nRidout explains that “Virgo is primarily looking for a partner who is steadfast, loving, and ethical, and who appreciates their thoughtful approach to life.” This sign does everything with purpose and expects their partner to do the same. Because of their unique standards, they can be difficult to figure out and to please, and they find the more lighthearted signs to be too careless or, well, stupid.
+
+\n\n<b>Compatible signs</b>
+\n\nCapricorn shares Virgo’s love for hard work and setting goals. Taurus and Scorpio are passionate and trusted potential partners. While they may not share the same North Star, Virgo admires the fact that these signs have their own code of conduct to live by.
+
+\n\n<b>Non-compatible signs</b>
+\n\nSagittarius, Gemini, and Aquarius would likely wear on Virgo’s patience by testing boundaries or acting in a way that is unexpected. Believe it or not, there’s a similar process when picking the right pet for you. These are the dog breeds that are most compatible with your zodiac sign.</string>
+    <array name="status">
+        <item>Finding Friends</item>
+        <item>Finding Relationship</item>
+    </array>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both</item>
+    </array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:background="#f0f0f0"
+    tools:context=".fragments.MessageFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#D288A2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/backmessage"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:clickable="true"
+                    android:src="@drawable/ic_baseline_arrow_back_24"
+                    app:tint="#f0f0f0"></ImageView>
+
+                <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profile_image"
+                    android:layout_width="30dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="2dp"
+                    android:src="@drawable/avatar"
+                    app:civ_border_color="#bad6de"
+                    app:civ_border_width="0dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:text="Prince"
+                    android:textColor="#f0f0f0"
+                    android:textSize="18dp"></TextView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+
+
+                    <ImageView
+                        android:id="@+id/gamebutton"
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"
+                        android:padding="10dp"
+                        android:clickable="true"
+                        android:src="@drawable/ic_baseline_videogame_asset_24"
+                        app:tint="#f0f0f0"></ImageView>
+                    <ImageView
+                        android:id="@+id/callbutton"
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"
+                        android:padding="10dp"
+                        android:clickable="true"
+                        android:src="@drawable/ic_baseline_call_24"
+                        app:tint="#f0f0f0"></ImageView>
+
+                    <ImageView
+                        android:id="@+id/videocall"
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"
+                        android:padding="10dp"
+                        android:clickable="true"
+                        android:src="@drawable/ic_baseline_video_call_24"
+                        app:tint="#f0f0f0"></ImageView>
+                    <ImageView
+                        android:id="@+id/block"
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"
+                        android:padding="10dp"
+                        android:clickable="true"
+                        android:src="@drawable/ic_baseline_block_24"
+                        app:tint="#f0f0f0"></ImageView>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <RelativeLayout
+            android:id="@+id/relativelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="32dp"
+                app:layout_constraintBottom_toBottomOf="parent">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            </ScrollView>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#F9F9F9"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:padding="5dp"
+            android:src="@drawable/ic_baseline_insert_emoticon_24"
+            app:tint="#bad6de" />
+
+        <EditText
+            android:id="@+id/messageET"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="Message..."
+            android:maxLines="2">
+
+        </EditText>
+
+        <ImageView
+            android:id="@+id/sendBtn"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:padding="5dp"
+            android:src="@drawable/ic_baseline_send_24"
+             />
+
+    </LinearLayout>
+
+
+</LinearLayout>

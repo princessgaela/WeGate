@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:id="@+id/ll_range_seekbar"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="0"
+            android:id="@+id/left_bar"
+            android:background="@color/quantum_grey400"
+            android:layout_height="1dp"/>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:id="@+id/middle_bar"
+            android:layout_height="wrap_content">
+
+            <View
+                android:id="@+id/middle_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/right_thumb"
+                android:layout_toRightOf="@+id/left_thumb"
+                android:background="#88d2b8" />
+
+            <ImageView
+                android:id="@+id/left_thumb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:tint="#88d2b8"
+                android:src="@drawable/ic_baseline_circle_24" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/right_thumb"
+                android:tint="#88d2b8"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_baseline_circle_24"/>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="0"
+            android:id="@+id/right_bar"
+            android:background="@color/quantum_grey400"
+            android:layout_height="1dp"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/tv_range_min"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/black"
+            android:id="@+id/tv_range_max"/>
+    </RelativeLayout>
+</LinearLayout>
